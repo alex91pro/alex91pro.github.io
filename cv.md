@@ -1,5 +1,5 @@
 
-1) Alex Zhukov
+1) Alex Zhukov.
 
 2) Tel +375256022725
 
