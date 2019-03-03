@@ -28,7 +28,7 @@ alert( arr ); // [3, 1]
 
 7) Higher education. GLO courses.
 
-8) English level A2. Lingualeo courses.
+8) English level A2. Lingualeo courses. l wach English videos.
 
 
 
